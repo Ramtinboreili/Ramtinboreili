@@ -33,15 +33,14 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 I'm always eager to connect with fellow developers, enthusiasts, and mentors. Feel free to reach out if you want to collaborate, share ideas, or just have a chat about tech!
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:ramtin.bor7hp@gmail.com)
-- **Twitter**: [Your Twitter Handle](#)
+- **Email**: [My Email Address](mailto:ramtin.bor7hp@gmail.com)
+
 
 ---
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtinboreili&show_icons=true&theme=radical)
 
 Thank you for visiting my GitHub profile! Keep exploring and happy coding! 🚀
 
