@@ -35,7 +35,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 ### 🌱 Currently Learning
 
-- Advanced state management in Flutter (Provider, Bloc)
+- Advanced state management in Flutter (Provider , GetX , Bloc)
 - Building scalable backend systems with Django 
 
 ---
