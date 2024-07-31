@@ -19,6 +19,16 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 - **Frameworks & Tools**: Flutter, Django
 - **Version Control**: Git, GitHub
 - **Others**: RESTful APIs, JSON, Responsive Design
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
 
 ---
 
