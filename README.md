@@ -15,7 +15,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 ### 🔧 Skills & Technologies
 
-- **Languages**: Dart, Python
+- **Languages**: Dart, Python , C
 - **Frameworks & Tools**: Flutter
 - **Version Control**: Git, GitHub
 - **Others**: RESTful APIs, JSON, Responsive Design , firebase
