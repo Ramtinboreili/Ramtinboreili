@@ -18,7 +18,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 - **Languages**: Dart, Python , C
 - **Frameworks & Tools**: Flutter
 - **Version Control**: Git, GitHub
-- **Others**: RESTful APIs, JSON, Responsive Design , firebase
+- **Others**: RESTful APIs, JSON, Responsive Design , firebase , figma 
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
