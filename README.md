@@ -37,7 +37,6 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 ### 🌱 Currently Learning
 
 - Advanced state management in Flutter (GetX , Bloc)
-- GoLang
 
 ---
 
