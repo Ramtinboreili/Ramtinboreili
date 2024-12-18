@@ -27,6 +27,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="firebase" height="50" /> 
  <br>
+ <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git-scm" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" height="50" />  
 </div>
