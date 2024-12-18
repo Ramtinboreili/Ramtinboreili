@@ -15,7 +15,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 ### 🔧 Skills & Technologies
 
-- **Languages**: Dart, Python , C
+- **Languages**: Dart, Python , C , HTML,CSS
 - **Frameworks & Tools**: Flutter
 - **Version Control**: Git, GitHub
 - **Others**: RESTful APIs, JSON, Responsive Design , firebase , figma 
@@ -26,6 +26,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="firebase" height="50" /> 
+ <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git-scm" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" height="50" />  
 </div>
