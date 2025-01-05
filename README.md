@@ -8,7 +8,6 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 - 🎓 **CS Student**: Currently pursuing my studies while honing my skills in software development.
 - 📱 **Mobile Developer**: I specialize in Flutter, building cross-platform mobile apps with beautiful UIs and seamless performance.
-- 🐍 **Python Enthusiast**: I enjoy working with Python for  data analysis, and automation.
 - 🌐 **Lifelong Learner**: Continuously exploring new technologies, frameworks, and best practices in software development.
 
 ---
