@@ -1,8 +1,3 @@
-### 🌟 Welcome to My GitHub Profile!
-
-Hello! My name is Ramtin, a passionate student and aspiring mobile developer specializing in **Flutter** . My journey in tech began with a simple curiosity and has grown into a love for creating intuitive, efficient, and visually stunning applications. Here, you'll find a collection of my projects, experiments, and learning experiences as I dive deeper into the world of programming.
-
----
 
 ### 🚀 About Me
 
@@ -41,8 +36,7 @@ Hello! My name is Ramtin, a passionate student and aspiring mobile developer spe
 
 ### 🌱 Currently Learning
 
-- Advanced state management in Flutter (GetX , Bloc)
-- JS (Vue)
+- DevOPs
 
 ---
 
