@@ -27,3 +27,5 @@
 
 - 📧 [Email Me](mailto\:ramtin.bor7hp@gmail.com)
 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramtinboreili&show_icons=true&theme=radical)  
