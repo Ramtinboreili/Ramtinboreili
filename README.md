@@ -16,26 +16,23 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23000000?logo=ansible&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26?logo=gitlab&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-%23ef3a3a?logo=ceph&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23e6522c?logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-Stack-yellow)
 ![OpenStack](https://img.shields.io/badge/OpenStack-%23ed1944?logo=openstack&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23174d9c?logo=argo&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%2300b6e3?logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835cc?logo=terraform&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23d22128?logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?logo=nginx&logoColor=white)
 
 ### Currently Learning:
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-informational?logo=terraform)
-![Prometheus](https://img.shields.io/badge/-Prometheus-informational?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-informational?logo=grafana)
 ![Helm](https://img.shields.io/badge/-Helm-informational?logo=helm)
 ![AWS](https://img.shields.io/badge/-AWS-informational?logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-informational?logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-informational?logo=google-cloud)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23174d9c?logo=argo&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-%23ef3a3a?logo=ceph&logoColor=white)
 
 ---
 
