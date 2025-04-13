@@ -1,4 +1,4 @@
-## Summary:
+## About me:
 
 I'm a self-driven and passionate DevOps enthusiast , currently focused on building scalable infrastructure and apps using modern tools and platforms. With a background in Flutter, Vue.js, and Python, I love automating systems, building efficient workflows, and learning cloud-native technologies.
 
@@ -10,8 +10,8 @@ My goal is to bridge the gap between development and operations by applying DevO
 
 ## Tech Stack:
 
-![Linux](https://img.shields.io/badge/Linux-%23f03c2e?logo=linux&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23595959?logo=dev.to&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23f03c2e?logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23000000?logo=ansible&logoColor=white)
