@@ -17,14 +17,14 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Ansible](https://img.shields.io/badge/Ansible-%23000000?logo=ansible&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26?logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23e6522c?logo=prometheus&logoColor=white)
-//![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-informational?logo=grafana)
 ![ELK](https://img.shields.io/badge/ELK-Stack-yellow)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%2300b6e3?logo=vagrant&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23d22128?logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?logo=nginx&logoColor=white)
 
 ### Currently Learning:
-![Grafana](https://img.shields.io/badge/-Grafana-informational?logo=grafana)
+
 ![Terraform](https://img.shields.io/badge/Terraform-%235835cc?logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-informational?logo=helm)
 ![AWS](https://img.shields.io/badge/-AWS-informational?logo=amazon-aws)
@@ -32,6 +32,7 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![GCP](https://img.shields.io/badge/-GCP-informational?logo=google-cloud)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23174d9c?logo=argo&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-%23ef3a3a?logo=ceph&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
 
 ---
 
