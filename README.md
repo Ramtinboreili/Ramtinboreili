@@ -17,7 +17,7 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Ansible](https://img.shields.io/badge/Ansible-%23000000?logo=ansible&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26?logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23e6522c?logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
+//![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-Stack-yellow)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%2300b6e3?logo=vagrant&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23d22128?logo=apache&logoColor=white)
