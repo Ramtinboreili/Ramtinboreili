@@ -22,6 +22,9 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Vagrant](https://img.shields.io/badge/Vagrant-%2300b6e3?logo=vagrant&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23d22128?logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776ab?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234eaa25?logo=gnubash&logoColor=white)
+
 
 ### Currently Learning:
 
