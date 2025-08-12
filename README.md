@@ -1,8 +1,8 @@
-## About me:
+## Hello there!
 
-I'm a self-driven and passionate DevOps enthusiast , currently focused on building scalable infrastructure and apps using modern tools and platforms. With a background in Flutter, Vue.js, and Python, I love automating systems, building efficient workflows, and learning cloud-native technologies.
+I'm a self-driven and passionate DevOps enthusiast , currently focused on building scalable infrastructure and apps using modern tools and platforms. With a background in Flutter and Python, I love automating systems, building efficient workflows, and learning cloud-native technologies.
 
-I'm currently learning Kubernetes, Terraform, and cloud platforms like AWS and GCP to deepen my knowledge in DevOps and cloud infrastructure.  
+I'm currently learning Kubernetes, Ceph, and cloud platforms like AWS and Azure to deepen my knowledge in DevOps and cloud infrastructure.  
 My goal is to bridge the gap between development and operations by applying DevOps best practices in real-world projects.
 
 
