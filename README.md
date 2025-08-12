@@ -20,6 +20,7 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Grafana](https://img.shields.io/badge/-Grafana-informational?logo=grafana)
 ![ELK](https://img.shields.io/badge/ELK-Stack-yellow)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%2300b6e3?logo=vagrant&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-%2324a1c3?logo=traefik-proxy&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?logo=nginx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776ab?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234eaa25?logo=gnubash&logoColor=white)
