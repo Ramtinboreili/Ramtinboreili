@@ -24,11 +24,12 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?logo=nginx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776ab?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234eaa25?logo=gnubash&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
+
 
 
 ### Currently Learning:
 
-![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-informational?logo=helm)
 ![AWS](https://img.shields.io/badge/-AWS-informational?logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-informational?logo=microsoft-azure)
