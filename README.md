@@ -25,15 +25,14 @@ My goal is to bridge the gap between development and operations by applying DevO
 ![Python](https://img.shields.io/badge/Python-%233776ab?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234eaa25?logo=gnubash&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-%23000000?logo=grafana&logoColor=white)
-
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23174d9c?logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-informational?logo=helm)
 
 
 ### Currently Learning:
 
-![Helm](https://img.shields.io/badge/-Helm-informational?logo=helm)
 ![AWS](https://img.shields.io/badge/-AWS-informational?logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-informational?logo=microsoft-azure)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23174d9c?logo=argo&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-%23ef3a3a?logo=ceph&logoColor=white)
 
 
